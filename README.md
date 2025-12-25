@@ -82,12 +82,6 @@ The dashboard highlights important business KPIs:
 ### 🔹 City & Payment Insights
 ![City & Payment Analysis](Images/City_payment.png)
 
-### 📁 How to Add Screenshots
-1. Open your Power BI dashboard
-2. Take screenshots of key report pages
-3. Create a folder named **`screenshots`** in the repository
-4. Upload images and reference them as shown above
-
 ---
 
 ## 💡 Business Insights Derived
@@ -109,15 +103,17 @@ The dashboard highlights important business KPIs:
 
 ---
 
-## 📁 Project Structure
+## ✅ Conclusion
+This Mobile Sales Dashboard project demonstrates an **end-to-end data analytics workflow**, from raw data understanding and cleaning to interactive dashboard development and business insight generation.
 
-Mobile-Sales-Dashboard
-│
-├── Mobile Project.pbix
-├── Mobile Sales Raw Data.xlsx
-├── README.md
-└── screenshots
-    ├── overall_sales.png
-    ├── brand_analysis.png
-    └── city_payment.png
+By using **Power BI, DAX, and Excel**, this project highlights my ability to:
+- Analyze real-world sales data
+- Build KPI-driven dashboards
+- Translate data into meaningful business insights
+- Design professional, recruiter-ready reports
+
+This project reflects practical experience in **Business Intelligence and Data Analytics** and serves as a strong portfolio example for **Data Analyst, Business Analyst, and MIS Executive** roles.
+
+📌 *Feedback and suggestions are always welcome.*
+
 
