@@ -77,10 +77,10 @@ The dashboard highlights important business KPIs:
 ![Overall Sales Dashboard](Images/Brand_analysis.png)
 
 ### 🔹 Brand & Model Performance
-![Brand Performance](screenshots/brand_analysis.png)
+![Brand Performance](Images/Mobile Sales Dashboard.png)
 
 ### 🔹 City & Payment Insights
-![City & Payment Analysis](screenshots/city_payment.png)
+![City & Payment Analysis](Images/City_payment.png)
 
 ### 📁 How to Add Screenshots
 1. Open your Power BI dashboard
