@@ -110,3 +110,14 @@ The dashboard highlights important business KPIs:
 ---
 
 ## 📁 Project Structure
+
+Mobile-Sales-Dashboard
+│
+├── Mobile Project.pbix
+├── Mobile Sales Raw Data.xlsx
+├── README.md
+└── screenshots
+    ├── overall_sales.png
+    ├── brand_analysis.png
+    └── city_payment.png
+
