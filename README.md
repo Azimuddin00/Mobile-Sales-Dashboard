@@ -74,10 +74,10 @@ The dashboard highlights important business KPIs:
 > Screenshots improve recruiter engagement and project clarity.
 
 ### 🔹 Overall Sales Overview
-![Overall Sales Dashboard](Images/Brand_analysis.png)
+![Overall Sales Dashboard](Images/Mobile_Sales_Dashboard.png)
 
 ### 🔹 Brand & Model Performance
-![Brand Performance ](Images/City_payment.png)
+![Brand Performance ](Images/Brand_analysis.png)
 
 ### 🔹 City & Payment Insights
 ![City & Payment Analysis](Images/City_payment.png)
