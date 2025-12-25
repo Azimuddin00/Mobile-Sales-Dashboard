@@ -77,7 +77,7 @@ The dashboard highlights important business KPIs:
 ![Overall Sales Dashboard](Images/Brand_analysis.png)
 
 ### 🔹 Brand & Model Performance
-![Brand Performance](Images/Mobile Sales Dashboard.png)
+![Brand Performance ](Images/City_payment.png)
 
 ### 🔹 City & Payment Insights
 ![City & Payment Analysis](Images/City_payment.png)
